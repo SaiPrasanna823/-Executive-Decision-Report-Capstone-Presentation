@@ -1,0 +1,10 @@
+Risk_Area,Metric,Value,Unit,Details
+Category Revenue Concentration,Top Category Revenue Share,51.97,%,Top category: Course Access
+Geographic Concentration,Top City Revenue Share,27.56,%,Top city: Chennai
+Discount Exposure,Average Discount,13.0,%,Average discount across transactions
+Discount Exposure,Maximum Discount,100.0,%,Maximum recorded discount
+Revenue Volatility,Monthly Revenue Variability,0.0,%,Coefficient of variation
+Payment Performance,Paid Revenue Share,51.72,%,Revenue associated with Paid
+Payment Performance,Pending Revenue Share,22.11,%,Revenue associated with Pending
+Payment Performance,Refunded Revenue Share,18.8,%,Revenue associated with Refunded
+Payment Performance,Failed Revenue Share,7.37,%,Revenue associated with Failed
